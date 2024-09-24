@@ -4,4 +4,4 @@
 ## 檔案
 
 - `eight_trigrams.prolog`：六爻的基本對應關係。
-- `eight_trigrams_gen.prolog`：揲蓍技術。
+- `stalks.prolog`：揲蓍技術。
